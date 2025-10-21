@@ -1,0 +1,576 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<source>
+<publisher/>
+<publisherurl/>
+<lastBuildDate/>
+<job>
+<ReqID>
+<![CDATA[ ee61423d-0ef4-3106-6f53-3a1ce2695055 ]]>
+</ReqID>
+<referencenumber>
+<![CDATA[ 314938714 ]]>
+</referencenumber>
+<title>
+<![CDATA[ Data Engineer | Raleigh, NC ]]>
+</title>
+<description>
+<![CDATA[ <p><strong>Position:</strong> Data Engineer</p><p><strong>Location:</strong> Raleigh, NC (Hybrid)</p><p><strong>Pay:</strong> Starting at $80,000/year</p><p><strong>Experience:</strong> 2 to 3 years of software engineering or data engineering experience with solid technical fundamentals.</p><p><strong>Type:</strong> Full-time; Direct Hire</p><p><strong>Schedule:</strong> Monday – Friday</p><p><br></p><p><strong>Array Corporation</strong> is seeking a <strong>Data Engineer</strong> to join a growing and dynamic team! <span style="background-color: rgb(255, 255, 255); color: rgb(104, 107, 110);">We're seeking a motivated</span><strong style="background-color: rgb(255, 255, 255); color: rgb(104, 107, 110);"> Data Engineer</strong><span style="background-color: rgb(255, 255, 255); color: rgb(104, 107, 110);"> to join our team and contribute to building systems that connect frontline workers with meaningful opportunities. As a </span><strong style="background-color: rgb(255, 255, 255); color: rgb(104, 107, 110);">Data Engineer</strong><span style="background-color: rgb(255, 255, 255); color: rgb(104, 107, 110);">, you'll develop and maintain key components of our data platform while learning from experienced team members and growing your technical expertise. You'll implement well-defined solutions, contribute to data pipeline development, and collaborate closely with cross-functional teams to deliver reliable data solutions that support our mission. </span></p><p><br></p><p><strong>Job Description:</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Develop and maintain data systems and pipelines that support company-wide analytics and reporting.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Implement well-defined features and technical components under the guidance of senior team members.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Contribute to the design and improvement of data solutions using tools such as Azure SQL, Python, dbt, Logic Apps, and Databricks.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Participate in architectural discussions and provide input on system design and technical approaches.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Follow best practices in data engineering, ensuring code quality, reliability, and maintainability.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Communicate progress, challenges, and technical insights clearly to team members and stakeholders.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Troubleshoot and resolve data-related technical issues in collaboration with other engineers.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Collaborate cross-functionally with product, data, and operations teams to deliver data-driven business solutions.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Engage in code reviews to support team learning and uphold development standards.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Continuously learn and apply new technologies to enhance system performance and efficiency.</li></ol><p><br></p><p><strong>Position Requirements:</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Proficiency in Python and SQL for data engineering tasks.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Hands-on experience with dbt, Azure Logic Apps, and Databricks (Unity Catalog and Delta Tables).</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Knowledge of ETL/ELT architecture design, data lineage, and performance optimization.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(104, 107, 110);">Experience in troubleshooting and resolving technical issues with guidance when needed. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Familiarity with Git workflows, CI/CD pipeline management, and debugging techniques.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(104, 107, 110); background-color: rgb(255, 255, 255);">Experience contributing to data systems, pipelines, or analytics projects. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(104, 107, 110); background-color: rgb(255, 255, 255);">Familiarity with software development practices and willingness to learn established standards. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(104, 107, 110); background-color: rgb(255, 255, 255);">Track record of delivering assigned tasks and taking ownership of work quality. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Strong analytical thinking and problem-solving skills.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Excellent communication and teamwork abilities.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Willingness to learn new technologies and grow within a collaborative environment.</li></ol><p><br></p><p><strong>Array Corporation</strong> is the leading technology-enabled workforce solutions company whose mission is to fix how labor is bought, sold and delivered to enable universal access to the American Dream.</p><p><br></p><p><em>We are proud to be an Equal Employment Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</em></p> ]]>
+</description>
+<company>
+<![CDATA[ Array Internal Recruiting ]]>
+</company>
+<city>
+<![CDATA[ raleigh ]]>
+</city>
+<state>
+<![CDATA[ North Carolina ]]>
+</state>
+<type>
+<![CDATA[ primary ]]>
+</type>
+<url>
+<![CDATA[ https://app.formbricks.com/s/cm9vdwp1j07xcsr011siwic38 ]]>
+</url>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<routing>
+<![CDATA[ 314938714 ]]>
+</routing>
+<internalId>
+<![CDATA[ ee61423d-0ef4-3106-6f53-3a1ce2695055 ]]>
+</internalId>
+</job>
+<job>
+<ReqID>
+<![CDATA[ f3cf5814-e240-7a01-2aaf-3a1c062219be ]]>
+</ReqID>
+<referencenumber>
+<![CDATA[ 622879247 ]]>
+</referencenumber>
+<title>
+<![CDATA[ Senior Platform Engineer - Hybrid Role & Competitive Salary! ]]>
+</title>
+<description>
+<![CDATA[ <p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Position:&nbsp;</strong><span style="background-color: transparent; color: rgb(13, 13, 13);">Senior Platform Engineer&nbsp;</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Location:</strong><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;Raleigh, NC (Hybrid)</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Pay: </strong><span style="background-color: transparent; color: rgb(13, 13, 13);">Starting at $115,000/year&nbsp;</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Experience:&nbsp;</strong><span style="background-color: transparent; color: rgb(13, 13, 13);">3-5+ years of software engineering experience with demonstrated technical leadership.&nbsp;</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Education:&nbsp;</strong><span style="background-color: transparent; color: rgb(13, 13, 13);">4-year degree in software engineering or coding.&nbsp;</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Type: </strong><span style="background-color: transparent; color: rgb(13, 13, 13);">Full-time&nbsp;</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Schedule: </strong><span style="background-color: transparent; color: rgb(13, 13, 13);">Hybrid (Monday - Wednesday in office in Raleigh)</span></p><p><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;&nbsp;</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Array Corporation</strong><span style="background-color: transparent; color: rgb(13, 13, 13);"> is seeking an exceptional </span><strong style="background-color: transparent; color: rgb(13, 13, 13);">Senior Platform Engineer</strong><span style="background-color: transparent; color: rgb(13, 13, 13);"> who can own major systems and features while influencing technical decisions across teams. As a </span><strong style="background-color: transparent; color: rgb(13, 13, 13);">Senior Platform Engineer </strong><span style="background-color: transparent; color: rgb(13, 13, 13);">at </span><strong style="background-color: transparent; color: rgb(13, 13, 13);">Array</strong><span style="background-color: transparent; color: rgb(13, 13, 13);">, you'll architect, implement, and optimize critical integration and event processing components of our platform that connect frontline workers with meaningful opportunities. You'll make architectural decisions with organization-wide impact and set technical standards that extend beyond your immediate team.</span></p><p><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;&nbsp;</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Job Description:</strong><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;&nbsp;</span></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Own and develop major features or components within a specific domain area.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Collaborate effectively across the immediate team and adjacent teams.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Make architectural decisions and provide technical direction for specific product areas or services.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Design and implement systems that balance technical excellence with business needs.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Set technical standards that improve development efficiency and code quality.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Conduct thorough, constructive code reviews that elevate team standards.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Influence product and engineering roadmaps based on technical insights.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Resolve complex technical challenges that impact multiple components.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Drive adoption of best practices in software development.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Provide technical expertise during planning and estimation.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Strong focus on rapid delivery of business value via iterative development.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Maintain application health and advocate best practices.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Effectively mentor multiple engineers to accelerate their growth.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Decompose complex requirements into deliverable solutions.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Communicate technical concepts clearly to engineers and product stakeholders.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Run effective technical meetings that drive decisions and alignment.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Manage stakeholder expectations and maintain strong relationships.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Apply negotiation and conflict resolution skills to resolve technical disagreements.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Own healthy application builds and deployment processes.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Document complex systems and interactions.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Stay current and introduce emerging tools/trends.</span></li></ol><p><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Position Requirements:&nbsp;</strong><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;&nbsp;&nbsp;</span></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Strong experience with Python/TypeScript.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Experience with leading AI models from OpenAI, Anthropic, and Llama.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Previous experience with vector storage, embeddings, AI agent frameworks, and AI evals.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Experience with event streaming and asynchronous data processing (Kafka and Spark).</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Understanding of Azure Storage Gen 2 and Delta Lake.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Expertise in data transformation with DBT (data built tool).</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Analyze systems and prevent future defects.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Proficiency with AI IDE tools like Cursor</span><span style="color: rgb(13, 13, 13); background-color: transparent;">.&nbsp;</span></li></ol><p><span style="color: windowtext; background-color: transparent;">&nbsp;</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Array Corporation </strong><span style="background-color: transparent; color: rgb(13, 13, 13);">is the leading technology-enabled workforce solutions company whose mission is to fix how labor is bought, sold and delivered to enable universal access to the American Dream.&nbsp;</span></p><p><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;</span></p><p><em style="background-color: transparent; color: rgb(13, 13, 13);">We are proud to be an Equal Employment Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</em><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;</span></p> ]]>
+</description>
+<company>
+<![CDATA[ Array Internal Recruiting ]]>
+</company>
+<city>
+<![CDATA[ Raleigh ]]>
+</city>
+<state>
+<![CDATA[ North Carolina ]]>
+</state>
+<type>
+<![CDATA[ primary ]]>
+</type>
+<url>
+<![CDATA[ https://app.formbricks.com/s/cm9vdwp1j07xcsr011siwic38 ]]>
+</url>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<routing>
+<![CDATA[ 622879247 ]]>
+</routing>
+<internalId>
+<![CDATA[ f3cf5814-e240-7a01-2aaf-3a1c062219be ]]>
+</internalId>
+</job>
+<job>
+<ReqID>
+<![CDATA[ cf93368d-2702-564f-d8f9-3a1bac716d3c ]]>
+</ReqID>
+<referencenumber>
+<![CDATA[ 630632701 ]]>
+</referencenumber>
+<title>
+<![CDATA[ Account Executive | Great Perks! ]]>
+</title>
+<description>
+<![CDATA[ <p><strong>Position: </strong>Account Executive</p><p><strong>Location: </strong>New Orleans, LA (Remote - <span style="color: rgba(0, 0, 0, 0.9); background-color: rgb(255, 255, 255);">while this is a remote position, associates will be conducting in-person meetings with clients</span>)</p><p><strong>Experience: </strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>2 years of outside sales experience.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Previous experience in a "hunting" sales position, including prospecting for new business required.</li></ol><p><strong>Type: </strong>Full-time; Direct Hire</p><p><strong>Schedule: </strong>Monday - Friday</p><p><br></p><p><strong style="color: rgb(13, 13, 13); background-color: rgba(0, 0, 0, 0);">Clark Personnel</strong><strong> </strong>is seeking an<strong> Account Executive</strong> to join a growing and dynamic team!</p><p><br></p><p><strong>Job Description:</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Conduct high sales volume of company products and services</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Strategically allocate your time to activities that will best accomplish set goals</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Conduct effective discovery meetings that uncover pain points as aligned with products and services</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Formally present/pitch/propose products and services as solutions to established problems</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Maintain accurate data and notes in a CRM or other similar database</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Negotiate contracts to maximize long-term and immediate value</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Forecast closed deals (sales, recruiting, etc.)</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Educate users, clients, and prospects about products and services, providing relevant and accurate information</li></ol><p>&nbsp;</p><p><strong>Position Requirements:</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Ability to conduct in-person meetings with clients</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Effective communication skills with people at all levels of an organization</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Ability to build relationships and accomplish many detail-oriented tasks simultaneously</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Conduct sound business decisions analytically in a fast-paced environment</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Excellent follow-through skills and time management</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Able to work independently and in a team environment</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Possess excellent phone sales skills with a strong sense of urgency</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Ability to take feedback from managers and peers as a learning experience</li></ol><p>&nbsp;</p><p><strong style="color: rgb(13, 13, 13);">Clark Personnel </strong><span style="color: rgb(13, 13, 13);">is part of </span><strong style="color: rgb(13, 13, 13);">Array Corporation</strong><span style="color: rgb(13, 13, 13);">, the leading technology-enabled workforce solutions company whose mission is to fix how labor is bought, sold and delivered to enable universal access to the American Dream.</span></p><p><br></p><p><em>We are proud to be an Equal Employment Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</em></p> ]]>
+</description>
+<company>
+<![CDATA[ Array Internal Recruiting ]]>
+</company>
+<city>
+<![CDATA[ New Orleans ]]>
+</city>
+<state>
+<![CDATA[ Louisiana ]]>
+</state>
+<type>
+<![CDATA[ primary ]]>
+</type>
+<url>
+<![CDATA[ https://app.formbricks.com/s/cm9vdwp1j07xcsr011siwic38 ]]>
+</url>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<routing>
+<![CDATA[ 630632701 ]]>
+</routing>
+<internalId>
+<![CDATA[ cf93368d-2702-564f-d8f9-3a1bac716d3c ]]>
+</internalId>
+</job>
+<job>
+<ReqID>
+<![CDATA[ caa8007e-126c-3cc0-2e4e-3a1b63e630ba ]]>
+</ReqID>
+<referencenumber>
+<![CDATA[ 700281211 ]]>
+</referencenumber>
+<title>
+<![CDATA[ Account Executive | Career Growth! ]]>
+</title>
+<description>
+<![CDATA[ <p><strong>Position: </strong><span style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);">Account Executive</span></p><p><strong>Location: </strong>Mobile, AL</p><p><strong>Experience: </strong>Previous experience in a "hunting" sales position, including prospecting for new business, is required</p><p><strong>Type: </strong>Full-time; Direct Hire</p><p><strong>Schedule: </strong>Monday - Friday</p><p><br></p><p><strong style="color: rgb(13, 13, 13); background-color: rgba(0, 0, 0, 0);">Clark Personnel</strong><strong> </strong>is seeking an<strong> </strong><strong style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);">Account Executive</strong> to join a growing and dynamic team! <strong style="color: rgb(13, 13, 13);">Clark Personnel </strong><span style="color: rgb(13, 13, 13);">is part of </span><strong style="color: rgb(13, 13, 13);">Array Corporation</strong><span style="color: rgb(13, 13, 13);">, the leading technology-enabled workforce solutions company whose mission is to fix how labor is bought, sold and delivered to enable universal access to the American Dream.</span></p><p><br></p><p><strong>Job Description:</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Conduct a high volume of selling company services</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Strategically allocate your time to activities that will best accomplish set goals</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Conduct effective discovery meetings that uncover pain points that are aligned with our services</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Formally present/pitch/propose products and services as solutions to established problems</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Maintain accurate data and notes in a CRM or other similar database</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Negotiate contracts to maximize long-term and immediate value</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Forecast closed deals (sales, recruiting, etc.)</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Educate users, clients, and prospects about products and services, providing relevant and accurate information</li></ol><p>&nbsp;</p><p><strong>Position Requirements:</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Effective communication skills with people at all levels of an organization</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Ability to build relationships and accomplish many detail-oriented tasks simultaneously</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Conduct sound business decisions analytically in a fast-paced environment</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Excellent follow-through skills and time management</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Able to work independently and in a team environment</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Possess excellent phone sales skills with a strong sense of urgency</li></ol><p><br></p><p><em>We are proud to be an Equal Employment Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</em></p> ]]>
+</description>
+<company>
+<![CDATA[ Array Internal Recruiting ]]>
+</company>
+<city>
+<![CDATA[ Mobile ]]>
+</city>
+<state>
+<![CDATA[ Alabama ]]>
+</state>
+<type>
+<![CDATA[ primary ]]>
+</type>
+<url>
+<![CDATA[ https://app.formbricks.com/s/cm9vdwp1j07xcsr011siwic38 ]]>
+</url>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<routing>
+<![CDATA[ 700281211 ]]>
+</routing>
+<internalId>
+<![CDATA[ caa8007e-126c-3cc0-2e4e-3a1b63e630ba ]]>
+</internalId>
+</job>
+<job>
+<ReqID>
+<![CDATA[ 70ba81db-9dd5-fbe7-5307-3a1c2339b85a ]]>
+</ReqID>
+<referencenumber>
+<![CDATA[ 247957246 ]]>
+</referencenumber>
+<title>
+<![CDATA[ Talent Engagement Manager | Weekly Pay & Commission! ]]>
+</title>
+<description>
+<![CDATA[ <p><strong style="color: rgb(13, 13, 13);">Position: </strong><span style="color: rgb(13, 13, 13);">Talent Engagement Manager</span></p><p><strong style="color: rgb(13, 13, 13);">Location: </strong><span style="color: rgb(13, 13, 13);">Raleigh</span><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">, NC (Onsite) </span></p><p><strong style="color: rgb(13, 13, 13);">Pay:</strong><span style="color: rgb(13, 13, 13);"> $50,000 to $60,000/year + Commission!</span></p><p><strong style="color: rgb(13, 13, 13);">Type: </strong><span style="color: rgb(13, 13, 13);">Full-time; Direct Hire </span></p><p><strong>Schedule: </strong>Monday - Friday, 10:00am to 7:00pm (Ability to work 4 hours every other weekend during peak season)</p><p><br></p><p><strong style="color: rgb(13, 13, 13);">Greene Resources </strong><span style="color: rgb(13, 13, 13);">is seeking a </span><strong style="color: rgb(13, 13, 13);">Talent Engagement Manager</strong><span style="color: rgb(13, 13, 13);"> to join a growing and dynamic team!&nbsp;</span></p><p><br></p><p><strong>Core Objectives</strong><strong style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">:</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Serve as the primary relationship manager for a high-volume, on-location talent pool—providing hands-on support, coaching, and management to deployed associates and real-time partnership with the client.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Increase retention and satisfaction by coaching to performance metrics and managing attendance, supporting employee training, and addressing issues proactively.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Facilitate strong employee performance by preparing associates, coaching, and troubleshooting operational issues in the moment.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Strengthen client confidence in Array’s delivery and team by maintaining a consistent, professional presence and communicating observations, risks, and opportunities.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Advocate for and advise associates by gathering and providing meaningful feedback.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Control churn by implementing strategies to keep employees satisfied, motivated, and engaged.</span></li></ol><p><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">&nbsp;</span></p><p><strong style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Responsibilities:</strong></p><p><strong style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Associate Relationship Management</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Build strong, personal connections with deployed associates through regular engagement and daily availability for questions, feedback, and support.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Set performance expectations for associates from day one, managing expectations and driving performance through coaching, training, and in-the-moment guidance.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Monitor and manage attendance, performance, and productivity in real time.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Set and enforce attendance expectations, and intervene early to address warning signs of disengagement.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Investigate and resolve associate concerns in collaboration with the client and internal stakeholders. Follow through until resolution is complete. Escalate where appropriate.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Recognize and celebrate wins—milestones, attendance streaks, performance shoutouts—and foster a culture of appreciation.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Ensure associates are set up for success by confirming logistics, expectations, check-ins, timekeeping, and first-day guidance.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">In conjunction with the Onsite Delivery Manager, conduct first-day walkthroughs, introductions, and site orientation when possible.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Partner with the client to address underperformance, behavioral issues, and shift coverage gaps promptly.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Act as the eyes and ears of the operation—collecting associate feedback, identifying risks, and reporting trends to internal engagement, allocation, or operations teams.</span></li></ol><p><strong style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Risk &amp; HR Issue Management</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Serve as the first point of contact for HR- and Risk-related concerns, such as behavioral escalations, interpersonal conflict, policy violations, or safety incidents.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Assess severity, gather facts, and provide initial documentation and resolution where appropriate.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Escalate complex or high-risk issues to internal HR and Risk stakeholders, maintaining timely and professional communication throughout.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Document all coaching conversations, feedback, and incidents accurately in internal systems.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Support corrective action conversations, terminations, or disciplinary discussions in partnership with leadership and HR.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Maintain a safe working environment and coach to safety expectations.</span></li></ol><p><strong style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Operational Support</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Drive real-time problem solving for timekeeping, badge access, break policies, or other daily logistics that impact associate success.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Coordinate appreciation events, lunch-and-learns, or client-hosted activities that promote morale and connection.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">With the Onsite Delivery Manager, support the rollout of new processes, tools, or technologies, ensuring employee understanding and adoption.</span></li></ol><p><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">&nbsp;</span></p><p><strong style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Experience:</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Minimum one year “fast-paced” work experience within the last four years.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Previous HR experience.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Preferred: Experience in an on-site, client-facing, or account management capacity within a staffing or high-volume workforce environment.</span></li></ol><p><br></p><p><strong style="color: rgb(13, 13, 13);">Skills Required:</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Strong interpersonal presence—able to build trust with associates, communicate effectively with client partners, and de-escalate in real time.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Understanding of a metrics-driven organization and how to drive performance.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Organized and able to prioritize competing daily demands while maintaining a high level of service and accuracy.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Able to identify operational or behavioral trends and take action to address risks before they escalate.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Tech-savvy and proficient in Microsoft Office tools and internal engagement systems</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Confident and calm under pressure, with a problem-solving mindset and a sense of ownership.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Ability to quickly learn client systems and integrate with client operations without disrupting flow.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Comfortable navigating between employee advocacy and business objectives.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: rgb(255, 255, 255); color: rgb(50, 81, 104);">Strong judgment and professionalism in navigating sensitive HR and Risk situations.</span></li></ol><p><br></p><p><strong style="color: rgb(13, 13, 13);">Greene Resources </strong><span style="color: rgb(13, 13, 13);">is part of</span><strong style="color: rgb(13, 13, 13);"> Array Corporation,</strong><span style="color: rgb(13, 13, 13);"> the leading technology-enabled workforce solutions company whose mission is to fix how work is bought, sold and delivered to enable access to the American Dream.</span></p><p><br></p><p><em style="color: rgb(13, 13, 13);">We are proud to be an Equal Employment Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</em></p> ]]>
+</description>
+<company>
+<![CDATA[ Array Internal Recruiting ]]>
+</company>
+<city>
+<![CDATA[ Raleigh ]]>
+</city>
+<state>
+<![CDATA[ North Carolina ]]>
+</state>
+<type>
+<![CDATA[ primary ]]>
+</type>
+<url>
+<![CDATA[ https://app.formbricks.com/s/cm9vdwp1j07xcsr011siwic38 ]]>
+</url>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<routing>
+<![CDATA[ 247957246 ]]>
+</routing>
+<internalId>
+<![CDATA[ 70ba81db-9dd5-fbe7-5307-3a1c2339b85a ]]>
+</internalId>
+</job>
+<job>
+<ReqID>
+<![CDATA[ 602efac4-b08b-f2f3-1e5d-3a1baba511e6 ]]>
+</ReqID>
+<referencenumber>
+<![CDATA[ 878090430 ]]>
+</referencenumber>
+<title>
+<![CDATA[ Account Executive | Uncapped Commission + Full Benefits! ]]>
+</title>
+<description>
+<![CDATA[ <p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Position:&nbsp;</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">Account Executive&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Location:</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;Philadelphia, PA (Onsite)</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Pay:</strong><span style="color: rgb(13, 13, 13); background-color: transparent;"> $80,000 to $90,000/year + </span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgb(255, 255, 255);">Uncapped Commission!</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Experience:</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;2 years of property management, outside sales, and/or staffing experience is preferred.</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Type: </strong><span style="color: rgb(13, 13, 13); background-color: transparent;">Full-time; Contract&nbsp;&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Schedule:</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;Monday - Friday</span></p><p><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">HireOne Staffing </strong><span style="color: rgb(13, 13, 13); background-color: transparent;">is seeking an&nbsp;</span><strong style="color: rgb(13, 13, 13); background-color: transparent;">Account Executive</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;to join a growing and dynamic team!&nbsp;&nbsp;&nbsp;</span></p><p><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Job Description:</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;&nbsp;</span></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Conduct a high volume of "selling" or persuading activity aligned with your sales plan. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Sell company services. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Conduct effective Discovery meetings that uncover pain points aligned with services.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Formally present/pitch/propose products and services as solutions to established problems. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Maintain accurate data and notes in a CRM (or other similar database).</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Negotiate contracts to maximize long-term and immediate value. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Forecast Closed Deals (Sales, Recruiting, etc.).</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Strategically allocate your time on those activities that will best accomplish the goal. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Educate users/clients/prospects about products and services, providing relevant and accurate information. </span></li></ol><p><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Position Requirements:&nbsp;</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;&nbsp;&nbsp;</span></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Effective communication skills with people at all levels of an organization.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Ability to build relationships and accomplish many detail-oriented tasks simultaneously is required.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Ability to make sound business decisions and think on their feet in a fast-paced environment.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Excellent follow-through skills and time management 5.Able to work independently and in a team environment.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Possess excellent phone sales skills with a strong sense of urgency.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Ability to take “on the spot” feedback from Managers and Peers as a learning experience.</span></li></ol><p><br></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">HireOne Staffing </strong><span style="color: rgb(13, 13, 13); background-color: transparent;">is part of </span><strong style="color: rgb(13, 13, 13); background-color: transparent;">Array Corporation</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">, the leading technology-enabled workforce solutions company whose mission is to fix how labor is bought, sold and delivered to enable universal access to the American Dream.&nbsp;</span></p><p><br></p><p><em style="color: rgb(13, 13, 13); background-color: transparent;">We are proud to be an Equal Employment Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</em><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;</span></p> ]]>
+</description>
+<company>
+<![CDATA[ Array Internal Recruiting ]]>
+</company>
+<city>
+<![CDATA[ Philadelphia ]]>
+</city>
+<state>
+<![CDATA[ Pennsylvania ]]>
+</state>
+<type>
+<![CDATA[ primary ]]>
+</type>
+<url>
+<![CDATA[ https://app.formbricks.com/s/cm9vdwp1j07xcsr011siwic38 ]]>
+</url>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<routing>
+<![CDATA[ 878090430 ]]>
+</routing>
+<internalId>
+<![CDATA[ 602efac4-b08b-f2f3-1e5d-3a1baba511e6 ]]>
+</internalId>
+</job>
+<job>
+<ReqID>
+<![CDATA[ 90fd72e7-2128-a59b-73e2-3a1c8fc9386c ]]>
+</ReqID>
+<referencenumber>
+<![CDATA[ 107538406 ]]>
+</referencenumber>
+<title>
+<![CDATA[ Recruiter | Weekly Pay + Benefits! ]]>
+</title>
+<description>
+<![CDATA[ <p><strong style="color: rgb(13, 13, 13);">Position: </strong><span style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">Recruiter</span></p><p><strong style="color: rgb(13, 13, 13);">Location: </strong><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">Huntington Beach, CA </span></p><p><strong style="color: rgb(13, 13, 13);">Pay:</strong><span style="color: rgb(13, 13, 13);"> $54k to $57k/year + commission!</span></p><p><strong style="color: rgb(13, 13, 13);">Experience: </strong><span style="color: rgb(13, 13, 13);">2 years working in a fast-paced, high-volume recruiting environment (recruiting, onboarding, or scheduling interviews, etc.)</span></p><p><strong style="color: rgb(13, 13, 13);">Type: </strong><span style="color: rgb(13, 13, 13);">Full-time; Direct Hire</span></p><p><strong style="color: rgb(13, 13, 13);">Schedule:</strong><span style="color: rgb(13, 13, 13);"> Monday - Friday, 8am to 5pm</span></p><p><span style="color: rgb(13, 13, 13);">&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13);">HB Staffing </strong><span style="color: rgb(13, 13, 13);">is seeking a&nbsp;</span><strong style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">Recruiter</strong><span style="color: rgb(13, 13, 13);"> to join a growing and dynamic team!&nbsp;</span></p><p><br></p><p><strong style="color: rgb(13, 13, 13);">Job Description:</strong><span style="color: rgb(13, 13, 13);"> </span></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Proven ability to fill 30–50+ requisitions simultaneously, ideally in staffing agency or fast-paced environments.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Assist with full-cycle recruiting, such as job postings, sourcing, screening, interviewing, offers, and onboarding.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Skilled in using job boards, LinkedIn, Boolean search, social recruiting, and creative outreach.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Track and report on fill rates, time-to-fill, and pipeline health.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Adapt to sudden hiring surges, last-minute client requests, and changing priorities.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Juggle multiple high-priority requisitions with accuracy.</li></ol><p><br></p><p><strong style="color: rgb(13, 13, 13);">Position Requirements: </strong><span style="color: rgb(13, 13, 13);">&nbsp;&nbsp;</span></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Comfortable learning and using recruitment technologies, Applicant Tracking Systems (ATS) such as Bullhorn, Avionté, or Shifty, and digital sourcing tools (LinkedIn Recruiter, Indeed, job boards).</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Must be proficient with MS Office/Google Suite, video interviewing platforms, and be able to adopt new platforms quickly.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Strong communication and relationship-building skills to maintain candidate pipelines.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Understanding of EEO, I-9, background checks, onboarding documentation, and wage/hour laws.</li></ol><p><br></p><p><strong style="color: rgb(13, 13, 13);">HB Staffing</strong><span style="color: rgb(13, 13, 13);"> is part of</span><strong style="color: rgb(13, 13, 13);"> Array Corporation,</strong><span style="color: rgb(13, 13, 13);"> the leading technology-enabled workforce solutions company whose mission is to fix how work is bought, sold and delivered to enable access to the American Dream.</span></p><p><br></p><p><em style="color: rgb(13, 13, 13);">We are proud to be an Equal Employment Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</em></p> ]]>
+</description>
+<company>
+<![CDATA[ Array Internal Recruiting ]]>
+</company>
+<city>
+<![CDATA[ Huntington Beach ]]>
+</city>
+<state>
+<![CDATA[ California ]]>
+</state>
+<type>
+<![CDATA[ primary ]]>
+</type>
+<url>
+<![CDATA[ https://app.formbricks.com/s/cm9vdwp1j07xcsr011siwic38 ]]>
+</url>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<routing>
+<![CDATA[ 107538406 ]]>
+</routing>
+<internalId>
+<![CDATA[ 90fd72e7-2128-a59b-73e2-3a1c8fc9386c ]]>
+</internalId>
+</job>
+<job>
+<ReqID>
+<![CDATA[ 027a3c5a-4ec5-7007-f148-3a1cfad6e1b7 ]]>
+</ReqID>
+<referencenumber>
+<![CDATA[ 791898211 ]]>
+</referencenumber>
+<title>
+<![CDATA[ Account Executive | Weekly Pay & Uncapped Commission! ]]>
+</title>
+<description>
+<![CDATA[ <p><strong style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Position:&nbsp;</strong><span style="color: rgba(0, 0, 0, 0.9); background-color: rgb(255, 255, 255);">Account Executive</span></p><p><strong style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Location:</strong><span style="color: rgba(0, 0, 0, 0.9); background-color: rgb(255, 255, 255);">&nbsp;Huntington Beach, CA</span></p><p><strong style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Pay:</strong><span style="color: rgba(0, 0, 0, 0.9); background-color: rgb(255, 255, 255);">&nbsp;$70,000 to $80,000/year + Uncapped Commission!</span></p><p><strong style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Experience:</strong><span style="color: rgba(0, 0, 0, 0.9); background-color: rgb(255, 255, 255);">&nbsp;2 years of experience in a "hunting" sales position, including prospecting for new business, is required</span></p><p><strong style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Type:&nbsp;</strong><span style="color: rgba(0, 0, 0, 0.9); background-color: rgb(255, 255, 255);">Full-time; Contract</span></p><p><strong style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Schedule:</strong><span style="color: rgba(0, 0, 0, 0.9); background-color: rgb(255, 255, 255);">&nbsp;Monday - Friday</span></p><p><br></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">HB Staffing</strong><strong style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">&nbsp;</strong><span style="color: rgba(0, 0, 0, 0.9); background-color: rgb(255, 255, 255);">is seeking an&nbsp;</span><strong style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Account Executive</strong><span style="color: rgba(0, 0, 0, 0.9); background-color: rgb(255, 255, 255);">&nbsp;to join a growing and dynamic team!</span></p><p><br></p><p><strong style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Job Description:</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Conduct a high volume of "selling" or persuading activity aligned with your sales plan.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Sell company services.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Conduct effective Discovery meetings that uncover pain points aligned with services.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Formally present/pitch/propose products and services as solutions to established problems.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Maintain accurate data and notes in a CRM (or other similar database).</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Negotiate contracts to maximize long-term and immediate value.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Forecast Closed Deals (Sales, Recruiting, etc.).</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Strategically allocate your time on those activities that will best accomplish the goal.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Educate users/clients/prospects about products and services, providing relevant and accurate information.</span></li></ol><p><br></p><p><strong style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Position Requirements:</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Effective communication skills with people at all levels of an organization.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Ability to build relationships and accomplish many detail-oriented tasks simultaneously is required.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Ability to make sound business decisions and think on their feet in a fast-paced environment.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Excellent follow-through skills and time management 5.Able to work independently and in a team environment.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Possess excellent phone sales skills with a strong sense of urgency.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgba(0, 0, 0, 0);">Ability to take “on the spot” feedback from Managers and Peers as a learning experience.</span></li></ol><p><br></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">HB Staffing</strong><span style="background-color: transparent; color: rgb(13, 13, 13);"> is part of</span><strong style="background-color: transparent; color: rgb(13, 13, 13);"> Array Corporation,</strong><span style="background-color: transparent; color: rgb(13, 13, 13);"> the leading technology-enabled workforce solutions company whose mission is to fix how work is bought, sold and delivered to enable access to the American Dream.&nbsp;</span></p><p><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;</span></p><p><em style="background-color: transparent; color: rgb(13, 13, 13);">We are proud to be an Equal Employment Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</em><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;</span></p> ]]>
+</description>
+<company>
+<![CDATA[ Array Internal Recruiting ]]>
+</company>
+<city>
+<![CDATA[ Huntington Beach ]]>
+</city>
+<state>
+<![CDATA[ California ]]>
+</state>
+<type>
+<![CDATA[ primary ]]>
+</type>
+<url>
+<![CDATA[ https://app.formbricks.com/s/cm9vdwp1j07xcsr011siwic38 ]]>
+</url>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<routing>
+<![CDATA[ 791898211 ]]>
+</routing>
+<internalId>
+<![CDATA[ 027a3c5a-4ec5-7007-f148-3a1cfad6e1b7 ]]>
+</internalId>
+</job>
+<job>
+<ReqID>
+<![CDATA[ 1cb4c9f8-9ba7-d294-9cc0-3a1c4cc46025 ]]>
+</ReqID>
+<referencenumber>
+<![CDATA[ 697255750 ]]>
+</referencenumber>
+<title>
+<![CDATA[ Human Resource Coordinator | Room to Grow! ]]>
+</title>
+<description>
+<![CDATA[ <p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Position:&nbsp;</strong><span style="background-color: transparent; color: rgb(13, 13, 13);">Human Resource Coordinator</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Location:</strong><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;Honolulu, HI</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Pay:</strong><span style="background-color: transparent; color: rgb(13, 13, 13);"> $23 to $26/hour</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Experience:&nbsp;</strong><span style="background-color: transparent; color: rgb(13, 13, 13);">1 year of experience in an administrative position.</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Education:&nbsp;</strong><span style="background-color: transparent; color: rgb(13, 13, 13);">High school diploma or GED. </span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Type: </strong><span style="background-color: transparent; color: rgb(13, 13, 13);">Full-time; Direct Hire</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Schedule:</strong><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;Monday - Friday, 8am to 5pm</span></p><p><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;&nbsp;</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Staffing Solutions of Hawaii </strong><span style="background-color: transparent; color: rgb(13, 13, 13);">is seeking a&nbsp;</span><strong style="background-color: transparent; color: rgb(13, 13, 13);">Human Resource Coordinator </strong><span style="background-color: transparent; color: rgb(13, 13, 13);">to join a growing and dynamic team!&nbsp;&nbsp;&nbsp;</span></p><p><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;&nbsp;</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Job Description:</strong><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;&nbsp;</span></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: rgb(13, 13, 13);">Review new-hire requisitions and confirm that all required documentation has been received.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: rgb(13, 13, 13);">Prepare and send out offer letters and employment agreements.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: rgb(13, 13, 13);">Initiate background checks, drug screens, and reference checks.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: rgb(13, 13, 13);">Verify candidate eligibility to work (I-9 documentation).</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: rgb(13, 13, 13);">Create new hire profiles in the HRIS/ATS system.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: rgb(13, 13, 13);">Send welcome emails and pre-boarding packets.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: rgb(13, 13, 13);">Schedule orientation sessions and share agendas.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: rgb(13, 13, 13);">Prepare and distribute onboarding materials (handbooks, benefit guides, policies).</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: rgb(13, 13, 13);">Coordinate with IT for email, system logins, and equipment setup.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: rgb(13, 13, 13);">Ensure workstations, badges, and parking passes are ready.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: rgb(13, 13, 13);">Track completion of required onboarding forms (direct deposit, W-4, benefits enrollment).</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: rgb(13, 13, 13);">Collect onboarding feedback from new hires and managers.</span></li></ol><p><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Position Requirements:&nbsp;</strong><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;&nbsp;&nbsp;</span></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Onboarding or credentialing experience is a plus, but not required. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Excellent attention to detail and organization skills.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: windowtext; background-color: transparent;">Strong written and verbal communication skills.</span></li></ol><p><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;</span></p><p><strong style="background-color: transparent; color: rgb(13, 13, 13);">Staffing Solutions of Hawaii </strong><span style="background-color: transparent; color: rgb(13, 13, 13);">is part of</span><strong style="background-color: transparent; color: rgb(13, 13, 13);"> Array Corporation,</strong><span style="background-color: transparent; color: rgb(13, 13, 13);"> the leading technology-enabled workforce solutions company whose mission is to fix how work is bought, sold and delivered to enable access to the American Dream.&nbsp;</span></p><p><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;</span></p><p><em style="background-color: transparent; color: rgb(13, 13, 13);">We are proud to be an Equal Employment Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</em><span style="background-color: transparent; color: rgb(13, 13, 13);">&nbsp;</span></p> ]]>
+</description>
+<company>
+<![CDATA[ Array Internal Recruiting ]]>
+</company>
+<city>
+<![CDATA[ Honolulu ]]>
+</city>
+<state>
+<![CDATA[ Hawaii ]]>
+</state>
+<type>
+<![CDATA[ primary ]]>
+</type>
+<url>
+<![CDATA[ https://app.formbricks.com/s/cm9vdwp1j07xcsr011siwic38 ]]>
+</url>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<routing>
+<![CDATA[ 697255750 ]]>
+</routing>
+<internalId>
+<![CDATA[ 1cb4c9f8-9ba7-d294-9cc0-3a1c4cc46025 ]]>
+</internalId>
+</job>
+<job>
+<ReqID>
+<![CDATA[ 9c66e924-c427-7de0-be59-3a1c8a53f1a3 ]]>
+</ReqID>
+<referencenumber>
+<![CDATA[ 248254039 ]]>
+</referencenumber>
+<title>
+<![CDATA[ Account Executive | Hiring Now! ]]>
+</title>
+<description>
+<![CDATA[ <p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Position:&nbsp;</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">Account Executive&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Location:</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;Honolulu, HI </span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Pay:</strong><span style="color: rgb(13, 13, 13); background-color: transparent;"> $60k to $75k/year + </span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgb(255, 255, 255);">Uncapped Commission!</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Experience:</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;</span><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">2 years of sales experience is required. </span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Type: </strong><span style="color: rgb(13, 13, 13); background-color: transparent;">Full-time; Direct Hire</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Schedule:</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;Monday - Friday, 8am to 5pm</span></p><p><br></p><p><strong style="color: rgb(13, 13, 13);">Kahu Malama Nurses </strong><span style="color: rgb(13, 13, 13); background-color: transparent;">is seeking an&nbsp;</span><strong style="color: rgb(13, 13, 13); background-color: transparent;">Account Executive</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;to join a growing and dynamic team!&nbsp;&nbsp;&nbsp;</span></p><p><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Job Description:</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;&nbsp;</span></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Conduct a high volume of "selling" or persuading activity aligned with your sales plan. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Sell company services. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Conduct effective Discovery meetings that uncover pain points aligned with services.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Formally present/pitch/propose products and services as solutions to established problems. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Maintain accurate data and notes in a CRM (or other similar database).</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Negotiate contracts to maximize long-term and immediate value. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Forecast Closed Deals (Sales, Recruiting, etc.).</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Strategically allocate your time on those activities that will best accomplish the goal. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Educate users/clients/prospects about products and services, providing relevant and accurate information. </span></li></ol><p><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Position Requirements:&nbsp;</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;&nbsp;&nbsp;</span></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Effective communication skills with people at all levels of an organization.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Ability to build relationships and accomplish many detail-oriented tasks simultaneously is required.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Ability to make sound business decisions and think on their feet in a fast-paced environment.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Excellent follow-through skills and time management 5.Able to work independently and in a team environment.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Possess excellent phone sales skills with a strong sense of urgency.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Ability to take “on the spot” feedback from Managers and Peers as a learning experience.</span></li></ol><p><br></p><p><strong style="color: rgb(13, 13, 13);">Kahu Malama Nurses </strong><span style="color: rgb(13, 13, 13); background-color: transparent;">is part of </span><strong style="color: rgb(13, 13, 13); background-color: transparent;">Array Corporation</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">, the leading technology-enabled workforce solutions company whose mission is to fix how labor is bought, sold and delivered to enable universal access to the American Dream.&nbsp;</span></p><p><br></p><p><em style="color: rgb(13, 13, 13); background-color: transparent;">We are proud to be an Equal Employment Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</em><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;</span></p> ]]>
+</description>
+<company>
+<![CDATA[ Array Internal Recruiting ]]>
+</company>
+<city>
+<![CDATA[ Honolulu ]]>
+</city>
+<state>
+<![CDATA[ Hawaii ]]>
+</state>
+<type>
+<![CDATA[ primary ]]>
+</type>
+<url>
+<![CDATA[ https://app.formbricks.com/s/cm9vdwp1j07xcsr011siwic38 ]]>
+</url>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<routing>
+<![CDATA[ 248254039 ]]>
+</routing>
+<internalId>
+<![CDATA[ 9c66e924-c427-7de0-be59-3a1c8a53f1a3 ]]>
+</internalId>
+</job>
+<job>
+<ReqID>
+<![CDATA[ c7f4c03c-67af-57a2-640e-3a1c8a537d34 ]]>
+</ReqID>
+<referencenumber>
+<![CDATA[ 453169443 ]]>
+</referencenumber>
+<title>
+<![CDATA[ Account Executive | Honolulu, HI ]]>
+</title>
+<description>
+<![CDATA[ <p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Position:&nbsp;</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">Account Executive&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Location:</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;Honolulu, HI </span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Pay:</strong><span style="color: rgb(13, 13, 13); background-color: transparent;"> $60k to $75k/year + </span><span style="color: rgba(0, 0, 0, 0.9); background-color: rgb(255, 255, 255);">Uncapped Commission!</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Experience:</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;</span><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">2 years of sales experience is required. </span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Type: </strong><span style="color: rgb(13, 13, 13); background-color: transparent;">Full-time; Direct Hire&nbsp;&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Schedule:</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;Monday - Friday, 8am to 5pm</span></p><p><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13);">Staffing Solutions of Hawaii </strong><span style="color: rgb(13, 13, 13); background-color: transparent;">is seeking an&nbsp;</span><strong style="color: rgb(13, 13, 13); background-color: transparent;">Account Executive</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;to join a growing and dynamic team!&nbsp;&nbsp;&nbsp;</span></p><p><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Job Description:</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;&nbsp;</span></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Conduct a high volume of "selling" or persuading activity aligned with your sales plan. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Sell company services. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Conduct effective Discovery meetings that uncover pain points aligned with services.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Formally present/pitch/propose products and services as solutions to established problems. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Maintain accurate data and notes in a CRM (or other similar database).</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Negotiate contracts to maximize long-term and immediate value. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Forecast Closed Deals (Sales, Recruiting, etc.).</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Strategically allocate your time on those activities that will best accomplish the goal. </span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Educate users/clients/prospects about products and services, providing relevant and accurate information. </span></li></ol><p><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">Position Requirements:&nbsp;</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;&nbsp;&nbsp;</span></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Effective communication skills with people at all levels of an organization.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Ability to build relationships and accomplish many detail-oriented tasks simultaneously is required.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Ability to make sound business decisions and think on their feet in a fast-paced environment.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Excellent follow-through skills and time management 5.Able to work independently and in a team environment.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Possess excellent phone sales skills with a strong sense of urgency.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="background-color: transparent; color: windowtext;">Ability to take “on the spot” feedback from Managers and Peers as a learning experience.</span></li></ol><p><br></p><p><strong style="color: rgb(13, 13, 13);">Staffing Solutions of Hawaii</strong><strong style="color: rgb(13, 13, 13); background-color: transparent;"> </strong><span style="color: rgb(13, 13, 13); background-color: transparent;">is part of </span><strong style="color: rgb(13, 13, 13); background-color: transparent;">Array Corporation</strong><span style="color: rgb(13, 13, 13); background-color: transparent;">, the leading technology-enabled workforce solutions company whose mission is to fix how labor is bought, sold and delivered to enable universal access to the American Dream.&nbsp;</span></p><p><br></p><p><em style="color: rgb(13, 13, 13); background-color: transparent;">We are proud to be an Equal Employment Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</em><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;</span></p> ]]>
+</description>
+<company>
+<![CDATA[ Array Internal Recruiting ]]>
+</company>
+<city>
+<![CDATA[ Honolulu ]]>
+</city>
+<state>
+<![CDATA[ Hawaii ]]>
+</state>
+<type>
+<![CDATA[ primary ]]>
+</type>
+<url>
+<![CDATA[ https://app.formbricks.com/s/cm9vdwp1j07xcsr011siwic38 ]]>
+</url>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<routing>
+<![CDATA[ 453169443 ]]>
+</routing>
+<internalId>
+<![CDATA[ c7f4c03c-67af-57a2-640e-3a1c8a537d34 ]]>
+</internalId>
+</job>
+<job>
+<ReqID>
+<![CDATA[ 4b4e1936-b296-5862-3161-3a1ce2042a12 ]]>
+</ReqID>
+<referencenumber>
+<![CDATA[ 306854182 ]]>
+</referencenumber>
+<title>
+<![CDATA[ Business Development Representative | Professional Growth! ]]>
+</title>
+<description>
+<![CDATA[ <p><strong>Position:</strong> Business Development Representative</p><p><strong>Location:</strong> Mobile, AL</p><p><strong>Pay: </strong>$45k to $50k/year + uncapped commission</p><p><strong>Experience:</strong> Experience with cold calling and outbound prospecting required.</p><p><strong>Type:</strong> Full-time; Direct Hire</p><p><strong>Schedule:</strong> Monday – Friday</p><p><br></p><p><strong style="background-color: rgb(255, 255, 255); color: windowtext;">Array Corporation</strong><span style="background-color: rgb(255, 255, 255); color: windowtext;"> is the leading technology-enabled workforce solutions company whose mission is to fix how labor is bought, sold, and delivered to enable universal access to the American Dream. We're growing fast and looking for driven professionals to help fuel that growth.&nbsp;</span></p><p><br></p><p><strong>Array Corporation</strong> is seeking a <strong>Business Development Representative</strong> to join a growing and dynamic team! <span style="background-color: rgb(255, 255, 255); color: windowtext;">Are you energized by connecting with new people and opening doors? As a </span><strong>Business Development Representative</strong><strong style="background-color: rgb(255, 255, 255); color: windowtext;"> </strong><span style="background-color: rgb(255, 255, 255); color: windowtext;">at </span><strong>Array Corporation</strong><span style="background-color: rgb(255, 255, 255); color: windowtext;">, you’ll be at the forefront of our outbound sales efforts—focused on identifying and engaging new business opportunities. You won’t be closing deals or drafting proposals; your role is to spark the conversation, qualify the opportunity, and hand it off to our sales experts to take it from there.&nbsp;</span></p><p><span style="background-color: rgb(255, 255, 255); color: windowtext;">&nbsp;</span></p><p><span style="background-color: rgb(255, 255, 255); color: windowtext;">You’ll be equipped with a powerful tech stack including Apollo, ZoomInfo, and Salesforce, plus a dedicated lead curation team that provides warm, qualified leads—so you can focus on what you do best: prospecting and booking meetings.&nbsp;</span></p><p><br></p><p><strong style="background-color: rgb(255, 255, 255); color: windowtext;">What You’ll Be Doing:</strong><span style="background-color: rgb(255, 255, 255); color: windowtext;">&nbsp;</span></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Execute high-volume outbound outreach through calls, emails, and LinkedIn to engage potential clients.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Qualify leads through discovery-level conversations to identify business needs.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Manage and track outreach efforts using Apollo, ZoomInfo, and Salesforce.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Collaborate with sales leadership and Account Executives to ensure smooth handoffs.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Generate and maintain a strong pipeline of high-quality, sales-ready leads.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Meet and exceed weekly and monthly outreach and booking targets.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Stay informed about company offerings and continuously improve sales techniques.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Maintain organized records of communications and lead progress.</li></ol><p><br></p><p><strong>What Makes You a Fit: </strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Experience using or willingness to learn sales tools such as ZoomInfo, Apollo, and Salesforce.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Strong communication and interpersonal skills.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>High energy, self-motivated, and goal-oriented mindset.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Excellent organizational and time management abilities.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Ability to work in a fast-paced, metrics-driven environment.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Receptive to coaching and continuous improvement.</li></ol><p><br></p><p><strong style="background-color: rgb(255, 255, 255); color: windowtext;">Why Join Array?</strong><span style="background-color: rgb(255, 255, 255); color: windowtext;">&nbsp;</span></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><strong style="background-color: rgb(255, 255, 255); color: windowtext;">Modern Tech Stack:</strong><span style="background-color: rgb(255, 255, 255); color: windowtext;"> Apollo, ZoomInfo, Salesforce – all at your fingertips.&nbsp;</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><strong style="background-color: rgb(255, 255, 255); color: windowtext;">Lead Support:</strong><span style="background-color: rgb(255, 255, 255); color: windowtext;"> A team that curates and delivers qualified leads, so you’re not starting from scratch.&nbsp;</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><strong style="background-color: rgb(255, 255, 255); color: windowtext;">Career Growth:</strong><span style="background-color: rgb(255, 255, 255); color: windowtext;"> This role is an entry point into a high-performing sales organization with room to grow.&nbsp;</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><strong style="background-color: rgb(255, 255, 255); color: windowtext;">Mission-Driven:</strong><span style="background-color: rgb(255, 255, 255); color: windowtext;"> Join a company that’s innovating how labor is delivered and opening doors for all.&nbsp;</span></li></ol><p><br></p><p><em>We are proud to be an Equal Employment Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</em></p> ]]>
+</description>
+<company>
+<![CDATA[ Array Internal Recruiting ]]>
+</company>
+<city>
+<![CDATA[ Mobile ]]>
+</city>
+<state>
+<![CDATA[ Alabama ]]>
+</state>
+<type>
+<![CDATA[ primary ]]>
+</type>
+<url>
+<![CDATA[ https://app.formbricks.com/s/cm9vdwp1j07xcsr011siwic38 ]]>
+</url>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<routing>
+<![CDATA[ 306854182 ]]>
+</routing>
+<internalId>
+<![CDATA[ 4b4e1936-b296-5862-3161-3a1ce2042a12 ]]>
+</internalId>
+</job>
+<job>
+<ReqID>
+<![CDATA[ 4b2c961c-d0e8-6d67-7696-3a1ca68e6be9 ]]>
+</ReqID>
+<referencenumber>
+<![CDATA[ 908234021 ]]>
+</referencenumber>
+<title>
+<![CDATA[ Operations Manager - Washington, D.C. | Apply Now! ]]>
+</title>
+<description>
+<![CDATA[ <p><strong style="color: rgb(89, 89, 89);"><em>Now Hiring: Operations Manager</em></strong></p><p><strong style="color: rgb(89, 89, 89);">Type: Full-Time | Compensation: $65,000 to $69,000/year + Commission</strong></p><p><strong style="color: rgb(89, 89, 89);">Benefits: Weekly Pay | 401(k) | Health, Dental &amp; Vision | Career Advancement Opportunities</strong></p><p><br></p><p><strong style="color: rgb(89, 89, 89);">Lead with impact. Grow with purpose. Make your mark in Washington, D.C.</strong></p><p><br></p><p><strong style="background-color: rgb(255, 229, 229); color: rgb(0, 0, 0);">HireOne</strong><strong style="background-color: rgb(255, 255, 255); color: rgb(13, 13, 13);">&nbsp;Staffing&nbsp;</strong><span style="color: rgb(89, 89, 89);">is seeking a driven and dynamic&nbsp;</span><strong style="color: rgb(89, 89, 89);">Operations Manager&nbsp;</strong><span style="color: rgb(89, 89, 89);">to lead operations at one of our reputable client locations in Washington, D.C. This is more than a management role — it’s an opportunity to take charge, build strong teams, and shape the success of a growing national brand. If you thrive in fast-paced environments and enjoy working with people, we want to hear from you.</span></p><p><br></p><p><strong style="color: rgb(89, 89, 89);"><em>What You’ll Do:</em></strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(89, 89, 89);">Serve as the on-site leader, overseeing staffing operations and delivering exceptional service to both clients and associates.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(89, 89, 89);">Manage daily logistics, including scheduling, attendance tracking, and timekeeping.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(89, 89, 89);">Source, recruit, and onboard top-tier talent — from interviews and safety briefings to first-day readiness.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(89, 89, 89);">Provide coaching, resolve conflicts, and support associate performance and development.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(89, 89, 89);">Maintain smooth communication with clients through regular updates and check-ins.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(89, 89, 89);">Anticipate client needs and develop proactive workforce solutions.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(89, 89, 89);">Uphold strict compliance with all safety and workplace regulations.</span></li></ol><p><br></p><p><strong style="color: rgb(89, 89, 89);"><em>What You Bring:</em></strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(89, 89, 89);">At least 2 years of experience in a fast-paced, people-focused role.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><strong style="color: rgb(89, 89, 89);">Proven management experience is required.</strong></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Staffing experience is preferred.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(89, 89, 89);">Bonus: Background in the rental car industry or similar logistics/operations fields.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(89, 89, 89);">Strong Microsoft Office skills, particularly in Outlook, Word, and Excel.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(89, 89, 89);">Clear communication, outstanding organizational skills, and an eye for detail.</span></li></ol><p><br></p><p><strong style="background-color: rgb(255, 255, 255); color: rgb(13, 13, 13);">HireOne&nbsp;Staffing&nbsp;</strong><span style="background-color: rgb(255, 255, 255); color: rgb(13, 13, 13);">is part of</span><strong style="background-color: rgb(255, 255, 255); color: rgb(13, 13, 13);">&nbsp;Array Corporation,</strong><span style="background-color: rgb(255, 255, 255); color: rgb(13, 13, 13);">&nbsp;the leading technology-enabled workforce solutions company whose mission is to fix how work is bought,&nbsp;sold&nbsp;and delivered to enable access to the American Dream.&nbsp;</span></p><p><br></p><p><em style="color: rgb(89, 89, 89);">We are proud to be an Equal Employment Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</em></p> ]]>
+</description>
+<company>
+<![CDATA[ Array Internal Recruiting ]]>
+</company>
+<city>
+<![CDATA[ Washington ]]>
+</city>
+<state>
+<![CDATA[ DC ]]>
+</state>
+<type>
+<![CDATA[ primary ]]>
+</type>
+<url>
+<![CDATA[ https://app.formbricks.com/s/cm9vdwp1j07xcsr011siwic38 ]]>
+</url>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<routing>
+<![CDATA[ 908234021 ]]>
+</routing>
+<internalId>
+<![CDATA[ 4b2c961c-d0e8-6d67-7696-3a1ca68e6be9 ]]>
+</internalId>
+</job>
+<job>
+<ReqID>
+<![CDATA[ e219c105-d7c4-6199-5ca5-3a1d00502272 ]]>
+</ReqID>
+<referencenumber>
+<![CDATA[ 384873268 ]]>
+</referencenumber>
+<title>
+<![CDATA[ Sales Trainee | Room to Grow! ]]>
+</title>
+<description>
+<![CDATA[ <p><strong style="color: rgb(13, 13, 13);">Position:&nbsp;</strong>Sales Trainee<span style="color: rgb(13, 13, 13);">&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13);">Location:</strong><span style="color: rgb(13, 13, 13);">&nbsp;Huntington Beach, CA</span></p><p><strong style="color: rgb(13, 13, 13); background-color: rgb(255, 255, 255);">Pay:</strong><span style="color: rgb(13, 13, 13); background-color: rgb(255, 255, 255);"> $60,000 to $65,000/year + commission!</span></p><p><strong style="color: rgb(13, 13, 13);">Experience:&nbsp;</strong>Previous retail, customer service, or sales experience is preferred.<span style="color: rgb(13, 13, 13);">&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13);">Type: </strong><span style="color: rgb(13, 13, 13);">Full-time; Direct Hire</span></p><p><strong style="color: rgb(13, 13, 13);">Schedule:</strong><span style="color: rgb(13, 13, 13);">&nbsp;Monday - Friday</span></p><p><span style="color: rgb(13, 13, 13);">&nbsp;&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13); background-color: rgba(0, 0, 0, 0);">HB Staffing</strong> is seeking a motivated <strong>Sales Trainee</strong> to join our dynamic and growing team! This is an excellent opportunity for someone who’s eager to launch their career, grow into an Account Executive role, and build meaningful connections along the way.</p><p><span style="color: rgb(13, 13, 13);">&nbsp;&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13);">Job Description:</strong><span style="color: rgb(13, 13, 13);">&nbsp;</span></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Conduct a high volume of selling of company services</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Strategically allocate your time to activities that will best accomplish set goals</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Conduct effective discovery meetings that uncover pain points aligned with services</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Formally present/pitch/propose products and services as solutions to established problems</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Maintain accurate data and notes in a CRM or other similar database</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Negotiate contracts to maximize long-term and immediate value</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Forecast closed deals (sales, recruiting, etc.)</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Educate users, clients, and prospects about services, providing relevant and accurate information<strong>&nbsp;</strong></li></ol><p><span style="color: rgb(13, 13, 13);">&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13);">Position Requirements:&nbsp;</strong><span style="color: rgb(13, 13, 13);">&nbsp;&nbsp;</span></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Ability to take feedback from managers and peers as a learning experience</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Effective communication skills with people at all levels of an organization</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Ability to build relationships and accomplish many detail-oriented tasks simultaneously</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Conduct sound business decisions analytically in a fast-paced environment</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Excellent follow-through skills and time management</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Able to work independently and in a team environment</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Possess excellent phone sales skills with a strong sense of urgency</li></ol><p><br></p><p><strong>Job Perks:</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Base Pay + Uncapped Commission</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Full Health Benefits (Medical, Dental, and Vision)</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>401k + Matching</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Weekly Pay</li></ol><p><strong>&nbsp;</strong></p><p><strong style="color: rgb(13, 13, 13); background-color: transparent;">HB Staffing</strong><span style="color: rgb(13, 13, 13); background-color: transparent;"> is part of</span><strong style="color: rgb(13, 13, 13); background-color: transparent;"> Array Corporation,</strong><span style="color: rgb(13, 13, 13); background-color: transparent;"> the leading technology-enabled workforce solutions company whose mission is to fix how work is bought, sold and delivered to enable access to the American Dream.&nbsp;</span></p><p><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;</span></p><p><em style="color: rgb(13, 13, 13); background-color: transparent;">We are proud to be an Equal Employment Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</em><span style="color: rgb(13, 13, 13); background-color: transparent;">&nbsp;</span></p> ]]>
+</description>
+<company>
+<![CDATA[ Array Internal Recruiting ]]>
+</company>
+<city>
+<![CDATA[ Huntington Beach ]]>
+</city>
+<state>
+<![CDATA[ California ]]>
+</state>
+<type>
+<![CDATA[ primary ]]>
+</type>
+<url>
+<![CDATA[ https://app.formbricks.com/s/cm9vdwp1j07xcsr011siwic38 ]]>
+</url>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<routing>
+<![CDATA[ 384873268 ]]>
+</routing>
+<internalId>
+<![CDATA[ e219c105-d7c4-6199-5ca5-3a1d00502272 ]]>
+</internalId>
+</job>
+<job>
+<ReqID>
+<![CDATA[ d20526c1-5fbc-17e3-4955-3a1d00d832a7 ]]>
+</ReqID>
+<referencenumber>
+<![CDATA[ 814743744 ]]>
+</referencenumber>
+<title>
+<![CDATA[ Onsite Delivery Manager | Durham, NC ]]>
+</title>
+<description>
+<![CDATA[ <p><strong style="color: rgb(13, 13, 13);">Position: </strong><span style="color: rgb(13, 13, 13);">Onsite Delivery Manager</span></p><p><strong style="color: rgb(13, 13, 13);">Location: </strong><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">Durham, NC </span></p><p><strong style="color: rgb(13, 13, 13);">Experience: </strong><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">Experience leading 50 to 100 associates in a production environment is required.</span></p><p><strong style="color: rgb(13, 13, 13);">Type: </strong><span style="color: rgb(13, 13, 13);">Full-time</span></p><p><strong style="color: rgb(13, 13, 13);">Schedule:</strong><span style="color: rgb(13, 13, 13);"> </span><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">Monday - Friday, 8:00am to 5:00pm </span></p><p><span style="color: rgb(13, 13, 13);">&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13);">Array Corporation</strong><span style="color: rgb(13, 13, 13);"> is seeking an&nbsp;</span><strong style="color: rgb(13, 13, 13);">Onsite Delivery Manager</strong><span style="color: rgb(13, 13, 13);">&nbsp;to join a growing and dynamic team!&nbsp;</span><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">This role manages and supports the daily operating model, manages multi-shift teams (50–100 associates), and drives continuous improvement to reduce cost per unit while maintaining safety and compliance. The ODM partners closely with client operations leaders and Array stakeholders to achieve SLAs/KPIs and margin targets.</span></p><p><span style="color: rgb(13, 13, 13);">&nbsp;</span></p><p><strong style="color: rgb(13, 13, 13);">Job Description:</strong><span style="color: rgb(13, 13, 13);"> </span></p><p><br></p><p><strong style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">Operational Leadership &amp; Daily Structure</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">Manage the day: ensure shift coverage, set the plan for the day, ensure targets and expectations are clear, and provide direction as needed to drive performance.&nbsp;</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">Own or oversee scheduling to keep staffing levels as expected to meet production targets.</span></li></ol><p><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">&nbsp;</span></p><p><strong style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">People Leadership &amp; Performance Management</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">Supervise, coach, document, and performance-manage the onsite workforce; deliver in-the-moment feedback for safety, quality, and speed; or ensure that the Onsite Talent Engagement Manager does so.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">Define the Ideal Talent Profiles, including defining physical requirements to complete the role as expected. Collaborate with talent acquisition teams to ensure workforce needs are met.&nbsp;</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">If supporting a delivery where in-person interviews are not possible, complete an in-person Final Evaluation and hiring decisions.</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">Understand how to perform core production tasks and, in rare instances, assist hands-on to unblock flow or cover gaps.</span></li></ol><p><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">&nbsp;</span></p><p><strong style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">Stakeholder Partnership &amp; Improvement</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">Build strong relationships with client contacts in operations, finance, HR/safety, and IT. Understand the business operations inside and out, communicating daily with customers, attending production and floor meetings, and building trust in Array’s partnership.&nbsp;</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">Identify workflow bottlenecks and improvement opportunities; escalate to RD and internal teams to pilot and implement improvements.&nbsp;</span></li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span><span style="color: rgb(50, 81, 104); background-color: rgb(255, 255, 255);">Coordinate QBR schedules and contribute content; ensure client-facing reporting is accurate and timely.</span></li></ol><p><br></p><p><strong style="color: rgb(13, 13, 13);">Position Requirements: </strong><span style="color: rgb(13, 13, 13);">&nbsp;&nbsp;</span></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Exceed client productivity targets; convert expectations into operational reality above target by directing staffing, performance management, and process enhancement.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Ensure daily adherence to safety, regulatory, and contractual standards; proactively mitigate risk and workers’ comp exposure.</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Create a workplace environment that effectively balances fun and structure.</li></ol><p><br></p><p><strong>Job Perks:</strong></p><ol><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Base Pay + Uncapped Commission</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Full Health Benefits (Medical, Dental, and Vision)</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>401k + Matching</li><li data-list="bullet"><span class="ql-ui" contenteditable="false"></span>Weekly Pay</li></ol><p><br></p><p><strong style="color: rgb(13, 13, 13);">Array Corporation </strong><span style="color: rgb(13, 13, 13);">is the leading technology-enabled workforce solutions company whose mission is to fix how work is bought, sold and delivered to enable access to the American Dream.</span></p><p><br></p><p><em style="color: rgb(13, 13, 13);">We are proud to be an Equal Employment Opportunity and Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.</em></p> ]]>
+</description>
+<company>
+<![CDATA[ Array Internal Recruiting ]]>
+</company>
+<city>
+<![CDATA[ Durham ]]>
+</city>
+<state>
+<![CDATA[ North Carolina ]]>
+</state>
+<type>
+<![CDATA[ primary ]]>
+</type>
+<url>
+<![CDATA[ https://app.formbricks.com/s/cm9vdwp1j07xcsr011siwic38 ]]>
+</url>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<routing>
+<![CDATA[ 814743744 ]]>
+</routing>
+<internalId>
+<![CDATA[ d20526c1-5fbc-17e3-4955-3a1d00d832a7 ]]>
+</internalId>
+</job>
+</source>
